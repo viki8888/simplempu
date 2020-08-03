@@ -6,8 +6,9 @@
         "radio": "*"
     },
     "files": [
-        "main.ts",
-        "README.md"
+        "README.md",
+        "simpleMPU.ts",
+        "Trig.ts"
     ],
     "testFiles": [
         "test.ts"
